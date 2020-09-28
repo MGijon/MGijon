@@ -10,7 +10,7 @@
 </p>
 -->
 
-I am a Mathematician, programmer and Data Scientist.
+I am a Mathematician, Programmer and Data Scientist.
 
 <details>
 <summary>Data Science projects</summary>
