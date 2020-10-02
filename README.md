@@ -1,14 +1,13 @@
-### Hi there 👋
-
 <!--
-<p align="center">
-<a href="https://medium.com/@maartengrootendorst" target="blank"><img align="center" src="https://img.shields.io/badge/-medium-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@maartengrootendorst" alt="maartengrootendorst"/></a>
-<a href="https://www.linkedin.com/in/mgrootendorst/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgrootendorst/" alt="maartengrootendorst"/></a>
-<a href="https://twitter.com/maartengr" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/maartengr" alt="maartengrootendorst"/></a>
-<a href="https://github.com/MaartenGr/Projects" target="blank"><img align="center" src="https://img.shields.io/badge/-Projects-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/MaartenGr/Projects" alt="maartengrootendorst"/></a>
-
-</p>
+### Hi there 👋
 -->
+
+<p align="center">
+<a href="https://medium.com/@mgijon94" target="blank"><img align="center" src="https://img.shields.io/badge/-medium-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@mgijon94" alt="Manuel Gijón Agudo"/></a>
+<a href="https://www.linkedin.com/in/manuel-gijón-agudo-34210a8a" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-gijón-agudo-34210a8a" alt="Manuel Gijón Agudo"/></a>
+<a href="https://twitter.com/mgijon94" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/mgijon94" alt="mgijon94"/></a>
+<a href="https://github.com/MGijon/Projects" target="blank"><img align="center" src="https://img.shields.io/badge/-Projects-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/MGijon/Projects" alt="mgijon94"/></a>
+</p>
 
 I am a Mathematician, Programmer and Data Scientist.
 
