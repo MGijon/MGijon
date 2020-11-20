@@ -16,9 +16,10 @@ I am a Mathematician, Programmer and Data Scientist.
 
 | Project | Tags |
 | --- | --- |
-| [An analysis of word embedding spaces and regularities (Master Thesis)](#thesis1) | <img src="https://img.shields.io/badge/-Published-black"> <img src="https://img.shields.io/badge/-Embeddings-red"> <img src="https://img.shields.io/badge/-Word%20Embeddings-red"> <img src="https://img.shields.io/badge/-Python-blue"> |
-| [Analyzing Distances in Word Embeddings and Their Relation with Seme Analysis](#paper1) | <img src="https://img.shields.io/badge/-Published-black"> <img src="https://img.shields.io/badge/-Embeddings-red"> <img src="https://img.shields.io/badge/-Word%20Embeddings-red"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [#BuildwithAI Global 2020: MUGA team Predictive Algorithm Challenge](#hackathon1) | <img src="https://img.shields.io/badge/-Hackathon-grey"> <img src="https://img.shields.io/badge/-Finalist%20Project-yellow"> <img src="https://img.shields.io/badge/-Genetic%20Algorithms-90A4AE"> <img src="https://img.shields.io/badge/-Epidemiology-green"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [Analyzing Distances in Word Embeddings and Their Relation with Seme Analysis](#paper1) | <img src="https://img.shields.io/badge/-Published-black"> <img src="https://img.shields.io/badge/-Embeddings-red"> <img src="https://img.shields.io/badge/-Word%20Embeddings-red"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [An analysis of word embedding spaces and regularities (Master Thesis)](#thesis1) | <img src="https://img.shields.io/badge/-Published-black"> <img src="https://img.shields.io/badge/-Embeddings-red"> <img src="https://img.shields.io/badge/-Word%20Embeddings-red"> <img src="https://img.shields.io/badge/-Python-blue"> |
+
 
 
 </details>
