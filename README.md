@@ -36,6 +36,7 @@ Developer and Data Scientist.
 #### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The starting point of Evolution Strategies: the EE-(1+1) algorithm](https://mgijon94.medium.com/the-starting-point-of-evolution-strategies-the-ee-1-1-algorithm-511ea3f2edf7)
 - [How do I incorporate Rich into my usual workflow as a Machine Learning Engineer](https://mgijon94.medium.com/how-do-i-incorporate-rich-into-my-usual-workflow-as-a-machine-learning-engineer-7e1c726e1241)
 
 <!-- BLOG-POST-LIST:END -->
