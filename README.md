@@ -9,7 +9,7 @@
 <a href="https://github.com/MGijon/DS_AI_Projects" target="blank"><img align="center" src="https://img.shields.io/badge/-Projects-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/MGijon/Projects" alt="mgijon94"/></a>
 </p>
 
-Developer and Data Scientist.
+Software Developer, ML Engineer, Mathematician. 
 
 <details>
 <summary>Data Science, AI and Data Visualizations projects</summary>
