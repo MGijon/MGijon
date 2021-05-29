@@ -9,7 +9,7 @@
 <a href="https://github.com/MGijon/DS_AI_Projects" target="blank"><img align="center" src="https://img.shields.io/badge/-Projects-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/MGijon/Projects" alt="mgijon94"/></a>
 </p>
 
-Software Developer, ML Engineer, Mathematician. 
+Software Developer, ML Engineer, Mathematician.
 
 <details>
 <summary>Data Science, AI and Data Visualizations projects</summary>
@@ -36,6 +36,7 @@ Software Developer, ML Engineer, Mathematician.
 #### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CLI written in Python to fast exploration of csv files with or without additional packages](https://mgijon94.medium.com/cli-written-in-python-to-fast-exploration-of-csv-files-with-or-without-additional-packages-9a37a908726c)
 - [The starting point of Evolution Strategies: the EE-(1+1) algorithm](https://mgijon94.medium.com/the-starting-point-of-evolution-strategies-the-ee-1-1-algorithm-511ea3f2edf7)
 - [How do I incorporate Rich into my usual workflow as a Machine Learning Engineer](https://mgijon94.medium.com/how-do-i-incorporate-rich-into-my-usual-workflow-as-a-machine-learning-engineer-7e1c726e1241)
 
