@@ -45,10 +45,6 @@ Software Developer, ML Engineer, Mathematician.
 
 ----
 
-<img src="https://github-readme-stats.vercel.app/api?username=mgijon&show_icons=true" alt=mgijon />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mgijon" alt="mgijon" /> </p>
-
-
 <!--
 **MGijon/MGijon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
