@@ -33,10 +33,10 @@ Software Developer, ML Engineer, Mathematician.
 </details>
 
 
-#### Recent Posts
+#### Selected Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [CLI written in Python to fast exploration of csv files with or without additional packages](https://mgijon94.medium.com/cli-written-in-python-to-fast-exploration-of-csv-files-with-or-without-additional-packages-9a37a908726c)
+<!-- - [CLI written in Python to fast exploration of csv files with or without additional packages](https://mgijon94.medium.com/cli-written-in-python-to-fast-exploration-of-csv-files-with-or-without-additional-packages-9a37a908726c) -->
 - [The starting point of Evolution Strategies: the EE-(1+1) algorithm](https://mgijon94.medium.com/the-starting-point-of-evolution-strategies-the-ee-1-1-algorithm-511ea3f2edf7)
 - [How do I incorporate Rich into my usual workflow as a Machine Learning Engineer](https://mgijon94.medium.com/how-do-i-incorporate-rich-into-my-usual-workflow-as-a-machine-learning-engineer-7e1c726e1241)
 
