@@ -1,12 +1,6 @@
-<!--
-### Hi there 👋
--->
-
+<!-- Social media badges and links -->
 <p align="center">
-<a href="https://medium.com/@mgijon94" target="blank"><img align="center" src="https://img.shields.io/badge/-medium-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@mgijon94" alt="Manuel Gijón Agudo"/></a>
-<!--<a href="https://www.linkedin.com/in/manuel-gijón-agudo-34210a8a" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-gijón-agudo-34210a8a" alt="Manuel Gijón Agudo"/></a>-->
-<a href="https://twitter.com/mgijon94" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/mgijon94" alt="mgijon94"/></a>
-<a href="https://github.com/MGijon/DS_AI_Projects" target="blank"><img align="center" src="https://img.shields.io/badge/-Projects-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/MGijon/Projects" alt="mgijon94"/></a>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://es.linkedin.com/in/manuel-gij%C3%B3n-agudo) [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee" />](https://twitter.com/mgijon94) [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCulNHBm9D6UWHPU8eRVnn6g) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@mgijon94) <a href="https://github.com/MGijon/DS_AI_Projects" target="blank"><img align="center" src="https://img.shields.io/badge/-Projects-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/MGijon/Projects" alt="mgijon94"/></a>
 </p>
 
 Software Engineer, Machine Learning Engineer, Mathematician.
