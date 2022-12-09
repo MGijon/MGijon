@@ -3,7 +3,7 @@
 <a href="https://twitter.com/mgijon94" target="blank"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee" /></a>
 <a href="https://www.youtube.com/channel/UCulNHBm9D6UWHPU8eRVnn6g" target="blank"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://medium.com/@mgijon94" target="blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://github.com/MGijon/DS_AI_Projects" target="blank"><img align="center" src="https://img.shields.io/badge/-Projects-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/MGijon/Projects" alt="mgijon94"/></a>
+<a href="https://github.com/MGijon/DS_AI_Projects" target="blank"><img src="https://img.shields.io/badge/-Projects-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/MGijon/Projects/"></a>
 </p>
 
 Software Engineer, Machine Learning Engineer, Mathematician.
